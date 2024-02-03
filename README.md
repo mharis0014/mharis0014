@@ -15,6 +15,7 @@ I am Haris, a Software Developer <img src="https://media.giphy.com/media/WUlplcM
 - :zap: In my free time, I solve problems on HackerRank and read tech articles.
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat&logo=Linkedin&logoColor=white)]([https://www.linkedin.com/in/muhammad-haris-0014/])
 
+
 <div>
   Languages/Frameworks i use: 
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="30" height="30"/>&nbsp;
