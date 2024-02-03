@@ -38,4 +38,4 @@ Forward-thinking Software Engineer with Computer Science background. <br>Fluent 
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=mharis0014&label=Profile%20Views&icon=5&pretty=true)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=mharis0014&label=Profile%20Views&icon=5&pretty=false)](https://visitcount.itsvg.in)
