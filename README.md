@@ -8,7 +8,7 @@
 </h1>
 
 
-I am a Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Islamabad, Pakistan.
+I am Haris, a Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Islamabad, Pakistan.
 
 - :telescope: I’m working as a React Native Engineer and contributing to frontend for building mobile applications.
 
